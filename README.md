@@ -6,6 +6,8 @@
 🎓 2nd Year CSE Student at **Vidya Jyoti Institute of Technology (VJIT)** (CGPA: 7.73)  
 📧 Reach me: **gannaramtrishulreddy@gmail.com**  
 
+![Profile Views](https://komarev.com/ghpvc/?username=trishulreddy3&label=Profile%20Views&color=blue&style=flat)  
+
 ---
 
 ## 🌟 About Me  
