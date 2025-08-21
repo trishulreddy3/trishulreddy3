@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,flutter,react,nodejs,firebase,html,css,js,tailwind,mysql,sqlite,git,github,vscode,androidstudio" />
 </p>
       
-    </td>
+  </td>
   </tr>
 </table>
 
