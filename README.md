@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 2nd Year Student at **Vidya Jyoti Institute of Technology (VJIT)**
+- 🎓 3rd Year Student at **Vidya Jyoti Institute of Technology (VJIT)**
 - 📊 CGPA: **7.73**
 - 📧 Email: **gannaramtrishulreddy@gmail.com**
 - 🌱 Currently learning **Python, Java, Data Structures & Algorithms, Machine Learning, Flutter, React**
