@@ -1,51 +1,58 @@
-# 👋 Hi, I'm Gannaram Trishul Reddy  
+# Hi, I'm Trishul Reddy 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Gannaram+Trishul+Reddy)  
-
-🚀 Passionate **Software Developer & Machine Learning Enthusiast** from India  
-🎓 2nd Year CSE Student at **Vidya Jyoti Institute of Technology (VJIT)** (CGPA: 7.73)  
-📧 Reach me: **gannaramtrishulreddy@gmail.com**  
-
-![Profile Views](https://komarev.com/ghpvc/?username=trishulreddy3&label=Profile%20Views&color=blue&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=trishulreddy3&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 🌟 About Me  
-- 🔭 Currently working on **Flutter + Firebase Apps** (Farmer-Buyer App, Chat App)  
-- 🎶 Building **Music Player Apps** with modern UI (React & Flutter)  
-- 📸 Developing a **Photo Organizer** with face recognition (Python + DeepFace + DBSCAN)  
-- 💻 Exploring **Machine Learning** with Python, NumPy, Pandas, Matplotlib & TensorFlow  
-- 📱 Interested in **Android (Java)** and **Cross-platform development**  
-- ⚡ Fun fact: I believe **Rohit Sharma is the best cricket captain** 🏏  
+## 🚀 About Me
+- 🎓 2nd Year Student at **Vidya Jyoti Institute of Technology (VJIT)**
+- 📊 CGPA: **7.73**
+- 📧 Email: **gannaramtrishulreddy@gmail.com**
+- 🌱 Currently learning **Python, Java, Data Structures & Algorithms, Machine Learning, Flutter, React**
+- 💡 Interested in **Full-Stack Development, AI/ML, and App Development**
 
 ---
 
-## 🛠️ Tech Stack  
-### 🚀 Languages & Frameworks  
-- **Frontend:** ReactJS, Flutter  
-- **Backend:** Node.js, Flask, Django  
-- **Mobile:** Android (Java), Flutter  
-- **ML/Data Science:** Python, NumPy, Pandas, Matplotlib, TensorFlow, R  
-- **Databases:** Firebase, Prisma DB  
-
-### 🎨 Tools & Platforms  
-- GitHub | Android Studio | VS Code | Jupyter Notebook | Firebase Console  
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,react,nodejs,firebase,html,css,js,tailwind,mysql,sqlite,git,github,vscode,androidstudio" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishulreddy3&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishulreddy3&theme=tokyonight" alt="GitHub Streak" />
-</p>  
+## 📊 GitHub Stats
+![Trishul's GitHub stats](https://github-readme-stats.vercel.app/api?username=trishulreddy3&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trishulreddy3&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me  
-- 📧 [Email](mailto:gannaramtrishulreddy@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=trishulreddy3&theme=tokyonight&hide_border=true)
 
 ---
 
-⭐️ *“Code. Create. Innovate.”*  
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=trishulreddy3&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
+
+---
+
+## 🌟 Projects
+- 🌾 **Farmer-Buyer App** – Flutter + Firebase (Buy/Sell Crops)
+- 💬 **Chat App** – Flutter + Firebase (Chats, Calls, File Sharing)
+- 🎵 **Music Player App** – Flutter (Local storage, albums, animations)
+- 🖼️ **Photo Organizer** – Python (DeepFace + DBSCAN for grouping photos)
+- 🎓 **ML Models** – Python (NumPy, Pandas, Matplotlib, TensorFlow)
+
+---
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="mailto:gannaramtrishulreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/trishulreddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/trishulreddy3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ From [trishulreddy3](https://github.com/trishulreddy3)
