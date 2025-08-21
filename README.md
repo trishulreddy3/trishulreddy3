@@ -48,19 +48,19 @@
 
 <h3>💬 Chat App</h3>
 <p>Flutter + Firebase (Chats, Calls, File Sharing)</p>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
+<a href="https://chat-frontend-one-phi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
 <a href="#"><img src="https://img.shields.io/badge/View%20Repo-brightgreen?style=for-the-badge&logo=github" alt="View Repo"></a>
 <br/><br/>
 
 <h3>🖼️ Photo Organizer</h3>
 <p>Python (DeepFace + DBSCAN for grouping photos)</p>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
+<a href="https://faceapp-client.vercel.app/"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
 <a href="#"><img src="https://img.shields.io/badge/View%20Repo-brightgreen?style=for-the-badge&logo=github" alt="View Repo"></a>
 <br/><br/>
 
 <h3>📚 Previous Year Papers Portal</h3>
 <p>Website for college students to access previous question papers of different universities.</p>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
+<a href="https://frolicking-druid-a778be.netlify.app/"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
 <a href="#"><img src="https://img.shields.io/badge/View%20Repo-brightgreen?style=for-the-badge&logo=github" alt="View Repo"></a>
 <br/>
 
