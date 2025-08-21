@@ -40,9 +40,7 @@
 ## 🌟 Projects
 - 🌾 **Farmer-Buyer App** – Flutter + Firebase (Buy/Sell Crops)
 - 💬 **Chat App** – Flutter + Firebase (Chats, Calls, File Sharing)
-- 🎵 **Music Player App** – Flutter (Local storage, albums, animations)
 - 🖼️ **Photo Organizer** – Python (DeepFace + DBSCAN for grouping photos)
-- 🎓 **ML Models** – Python (NumPy, Pandas, Matplotlib, TensorFlow)
 
 ---
 
