@@ -2,7 +2,7 @@
 
 # Hi, I'm Trishul Reddy 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=3rd+Year+Student+at+VJIT;Full-Stack+Developer;AI+%26+ML+Enthusiast;App+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=3rd+Year+Student+at+VJIT;Full-Stack+Developer;AI+%26+ML+Enthusiast;App+Developer" alt="Typing SVG" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trishulreddy3&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,flutter,react,nodejs,firebase,html,css,js,tailwind,mysql,sqlite,git,github,vscode,androidstudio" />
 </p>
       
-  </td>
+    </td>
   </tr>
 </table>
 
@@ -40,15 +40,30 @@
 ## 🌟 My Projects
 <div align="center">
   
-<a href="https://github.com/trishulreddy3/Your-Repo-Name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trishulreddy3&repo=Your-Repo-Name-1&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/trishulreddy3/Your-Repo-Name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trishulreddy3&repo=Your-Repo-Name-2&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/trishulreddy3/Your-Repo-Name-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trishulreddy3&repo=Your-Repo-Name-3&theme=tokyonight&show_owner=true" />
-  </a>
+<h3>🌾 Farmer-Buyer App</h3>
+<p>Flutter + Firebase (Buy/Sell Crops)</p>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Repo-brightgreen?style=for-the-badge&logo=github" alt="View Repo"></a>
+<br/><br/>
+
+<h3>💬 Chat App</h3>
+<p>Flutter + Firebase (Chats, Calls, File Sharing)</p>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Repo-brightgreen?style=for-the-badge&logo=github" alt="View Repo"></a>
+<br/><br/>
+
+<h3>🖼️ Photo Organizer</h3>
+<p>Python (DeepFace + DBSCAN for grouping photos)</p>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Repo-brightgreen?style=for-the-badge&logo=github" alt="View Repo"></a>
+<br/><br/>
+
+<h3>📚 Previous Year Papers Portal</h3>
+<p>Website for college students to access previous question papers of different universities.</p>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Preview-blue?style=for-the-badge&logo=eye" alt="Live Preview"></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Repo-brightgreen?style=for-the-badge&logo=github" alt="View Repo"></a>
+<br/>
+
 </div>
 
 ---
