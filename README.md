@@ -81,7 +81,6 @@
 </div>
 
 ## 🔥 Featured Projects
-
 <table align="center" width="100%">
 <thead>
 <tr>
@@ -129,8 +128,22 @@
 <a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
 </td>
 </tr>
+<tr>
+<td><strong>🛡️ Grievance Redressal System</strong></td>
+<td>A secure, citizen-first platform to file and track complaints related to roads, food, electricity, and education, aligned with SDG 16</td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</td>
+<td>
+<a href="https://grievancehub.netlify.app/"><img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
+</td>
+</tr>
 </tbody>
 </table>
+
 
 ## 📊 GitHub Analytics
 
