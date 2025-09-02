@@ -124,7 +124,7 @@
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </td>
 <td>
-<a href="https://frolicking-druid-a778be.netlify.app/"><img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge" /></a>
+<a href="https://edu-papers.netlify.app/"><img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
 </td>
 </tr>
