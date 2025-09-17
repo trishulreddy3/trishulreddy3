@@ -18,7 +18,7 @@
 <tr>
 <td>
 
-**🎯 Current Role:** Full Stack Developer  
+**🎯 Current Role:**Learning Full Stack Developer  
 **📍 Location:** India 🇮🇳  
 **💼 Specialization:** React.js & Node.js  
 **🔍 Current Status:** Building amazing applications  
