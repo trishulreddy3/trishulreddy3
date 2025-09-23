@@ -91,18 +91,7 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>💬 Chat App</strong></td>
-<td>A real-time chat application with features like text messaging, voice/video calls, and file sharing</td>
-<td>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</td>
-<td>
-<a href="https://chat-frontend-one-phi.vercel.app/"><img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
-</td>
-</tr>
+
 <tr>
 <td><strong>🖼️ Photo Organizer</strong></td>
 <td>A Python script that intelligently groups photos based on faces using DeepFace and DBSCAN clustering</td>
@@ -115,6 +104,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
 </td>
 </tr>
+
 <tr>
 <td><strong>📚 Previous Year Papers Portal</strong></td>
 <td>A web portal for college students to access previous year question papers from various universities</td>
@@ -128,6 +118,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
 </td>
 </tr>
+
 <tr>
 <td><strong>🛡️ Grievance Redressal System</strong></td>
 <td>A secure, citizen-first platform to file and track complaints related to roads, food, electricity, and education, aligned with SDG 16</td>
@@ -141,6 +132,34 @@
 <a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
 </td>
 </tr>
+
+<tr>
+<td><strong>🌱 FarmConnect - Direct Farm-to-Buyer Marketplace</strong></td>
+<td>FarmConnect is a modern marketplace connecting farmers directly with buyers, eliminating middlemen for fair pricing. Built with React, TypeScript, and Firebase, it offers real-time order notifications, live chat, crop management, analytics dashboards, and location-based services. Features include secure authentication, QR code generation, weather integration, and responsive design for seamless farm-to-table transactions.</td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</td>
+<td>
+<a href="https://farmcnt.netlify.app/"><img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
+</td>
+</tr>
+
+<tr>
+<td><strong>💬 Chat App</strong></td>
+<td>A real-time chat application with features like text messaging, voice/video calls, and file sharing</td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</td>
+<td>
+<a href="https://chat-frontend-one-phi.vercel.app/"><img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-blue?style=for-the-badge" /></a>
+</td>
+</tr>
+
 </tbody>
 </table>
 
