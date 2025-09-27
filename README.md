@@ -232,7 +232,7 @@
 </div>
 
 <div align="center">
-  <i>Note: If the snake animation doesn't appear, you can generate it by setting up a GitHub Action in your repository.</i>
+  <i>##Note: If the snake animation doesn't appear, you can generate it by setting up a GitHub Action in your repository.</i>
 </div>
 
 ---
