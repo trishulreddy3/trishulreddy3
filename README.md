@@ -231,9 +231,6 @@
   <img src="https://raw.githubusercontent.com/trishulreddy3/trishulreddy3/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
-<div align="center">
-  <i>##Note: If the snake animation doesn't appear, you can generate it by setting up a GitHub Action in your repository.</i>
-</div>
 
 ---
 
