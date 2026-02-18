@@ -43,14 +43,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishulreddy3&theme=algolia&hide_border=true&stroke=0000&background=0D1117&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7" alt="GitHub Streak Stats" />
 </div>
 
-## 🎯 Current Focus
 
-- 🔭 Currently working on **innovative full-stack projects**
-- 🌱 Learning **advanced system design** and **cloud architecture**
-- 👯 Looking to collaborate on **open source contributions**
-- 💬 Ask me about **React, Node.js, Python, System Design**
-- 📫 How to reach me: **gannaramtrishulreddy@gmail.com**
-- ⚡ Fun fact: **I believe good code is like a good joke - it needs no explanation!**
+ ## 🎯 Current Focus
+
+🧠 Passionate about Data Structures & Algorithms, Problem Solving, and System Design Architecture
+
+🔭 Building scalable full-stack applications using React, Node.js & Python
+
+🌱 Deep diving into Advanced System Design, Distributed Systems & Cloud Architecture
+
+☁️ Exploring AWS, Docker & Microservices-based deployments
+
+👯 Open to collaborating on impactful open-source projects
+
+💬 Ask me about React, Node.js, Python, APIs, DSA & System Design
+
+📫 Reach me at: gannaramtrishulreddy@gmail.com
+
+🚀 Always striving to write clean, scalable, and production-ready code
 
 ## 🛠️ Tech Stack & Tools
 
