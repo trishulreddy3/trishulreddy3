@@ -184,17 +184,32 @@ I build **scalable, production-ready web applications** with a strong focus on:
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trishulreddy3&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
+  <!-- Total Public Repos -->
+  <img src="https://img.shields.io/badge/Public%20Repos-21-36BCF7?style=for-the-badge" alt="Public Repos" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trishulreddy3&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</div>
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/trishulreddy3?color=36BCF7&style=for-the-badge&label=Followers" alt="Followers" />
+
+  <!-- GitHub Stars (useful if you have starred repos) -->
+  <img src="https://img.shields.io/github/stars/trishulreddy3?color=36BCF7&style=for-the-badge&label=Stars" alt="Stars" />
+
+  <!-- Top Language -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></div>
+
 
 ## 📈 This Week I Spent My Time On
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishulreddy3&theme=algolia&layout=compact&hide_border=true" alt="Most Used Languages" />
+  <!-- Top Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
 ## 🔥 Contribution Streak
