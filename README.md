@@ -69,7 +69,7 @@ I build **scalable, production-ready web applications** with a strong focus on:
 
 ### Backend & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgresql,firebase,aws,docker" />
 </div>
 
 ### Programming Languages
@@ -79,8 +79,10 @@ I build **scalable, production-ready web applications** with a strong focus on:
 
 ### Tools & Version Control
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/n8n-A000FF?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </div>
+
+
 
 ## 🔥 Featured Projects
 <table align="center" width="100%">
