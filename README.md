@@ -11,33 +11,25 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
-<table align="center">
-<tr>
-<td>
+💼 **Full Stack Web Developer at MicroSysLogic Technologies**  
+📍 Based in India 🇮🇳  
 
-**🎯 Current Role:**Learning Full Stack Developer  
-**📍 Location:** India 🇮🇳  
-**💼 Specialization:** React.js & Node.js  
-**🔍 Current Status:** Building amazing applications  
-**☕ Fun Fact:** I debug with coffee and create with code!  
-**🎨 Motto:** Code with passion, innovate with purpose!
+I build **scalable, production-ready web applications** with a strong focus on:
 
-</td>
-<td>
+- 🧠 **Data Structures & Algorithms** & Problem Solving  
+- 🏗️ **System Design & Scalable Architecture**  
+- ⚛️ **React.js Frontend Development**  
+- 🟢 **Node.js & Express Backend APIs**  
+- 🐍 **Python & Backend Systems**  
+- ☁️ **Cloud & Microservices Architecture**  
 
-**🚀 Skills Focus:**
-- ⚛️ React Development
-- 🟢 Node.js & Express
-- 🐍 Python Programming
-- 🎨 Modern Web Design
-- 📱 Full Stack Applications
+💡 **Passionate about:** clean, maintainable, and high-performance code.  
+🎯 **Goal:** Designing systems that are not just functional but scalable and efficient.  
 
-</td>
-</tr>
-</table>
+📫 **Reach me at:** gannaramtrishulreddy@gmail.com
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishulreddy3&theme=algolia&hide_border=true&stroke=0000&background=0D1117&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7" alt="GitHub Streak Stats" />
